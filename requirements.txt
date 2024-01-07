@@ -1,0 +1,9 @@
+pyarrow==9.0.0
+streamlit
+pypdf2
+langchain
+python-dotenv
+swig
+faiss-cpu
+openai
+huggingface_hub
